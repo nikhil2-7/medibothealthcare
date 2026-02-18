@@ -1,0 +1,4 @@
+medical/
+.env
+pipfile
+pipfile.lock
